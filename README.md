@@ -77,4 +77,4 @@ In this project, we simulate a random surfer model and use Markov chains to comp
 
 #### License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the University of Saarlandes
